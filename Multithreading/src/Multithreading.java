@@ -106,5 +106,7 @@ public class Multithreading{
 
         //Executor framework in different class
 
+        //Completable future in different class
+
     }
 }
